@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cooking mamamia</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, TroimsActivity !</string>
+    <string name="histoire">Vous connaissez l\'histoire de <b>\"Tom Sawyer\"</b> ?</string>
+    <string name="editText">Editer un texte</string>
+    <string name="button">Button</string>
+    <string name="checkbox">Checkbox</string>
+
+</resources>
